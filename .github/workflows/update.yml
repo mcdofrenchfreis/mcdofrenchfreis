@@ -30,6 +30,6 @@ jobs:
           destination-github-username: 'mcdofrenchfreis'
           destination-repository-name: 'mcdofrenchfreis'
           target-directory: gen
-          user-email: xyzevan@androidist.net
+          user-email: gagokayvan@gmail.com
           commit-message: Bump Changes
           target-branch: main
