@@ -1,15 +1,8 @@
 ## 👋 Hello, I'm mcdofrenchfreis, also known as Biofrost, also known as Evan :)
 
 <div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mcdofrenchfreis&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-</div>
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mcdofrenchfreis&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcdofrenchfreis&theme=radical&hide_border=true&layout=compact&langs_count=8)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mcdofrenchfreis&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
