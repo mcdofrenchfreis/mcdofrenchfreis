@@ -1,7 +1,23 @@
 ## 👋 Hello, I'm mcdofrenchfreis, also known as Biofrost, also known as Evan :)
 
-| ![mcdofrenchfreis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mcdofrenchfreis&include_all_commits=true&show_icons=true&hide_border=true&theme=radical) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcdofrenchfreis&layout=compact&hide_border=true&theme=radical) |
-| ------------- | ------------- |
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mcdofrenchfreis&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mcdofrenchfreis&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcdofrenchfreis&theme=radical&hide_border=true&layout=compact&langs_count=8)
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mcdofrenchfreis&theme=react-dark&hide_border=true&area=true)
+
+</div>
 
 ## 💻 Working Environments
 
