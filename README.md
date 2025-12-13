@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mcdofrenchfreis&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcdofrenchfreis&theme=radical&hide_border=true&layout=compact&langs_count=8)
 
 </div>
 
