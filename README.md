@@ -1,8 +1,10 @@
 ## 👋 Hello, I'm mcdofrenchfreis, also known as Biofrost, also known as Evan :)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcdofrenchfreis&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="200"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mcdofrenchfreis&theme=react-dark&hide_border=true&area=true&height=200" alt="Activity Graph" height="200"/>
+
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcdofrenchfreis&theme=radical&hide_border=true&layout=compact&langs_count=8) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mcdofrenchfreis&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph&height=250&width=400) |
+| ------------- | ------------- |
+
 </div>
 
 ## 💻 Working Environments
