@@ -4,12 +4,7 @@ Also known as **Biofrost** / **Evan** 🙂
 ---
 
 ### 🧠 Most Used Languages
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcdofrenchfreis&layout=compact&hide_border=true&theme=radical" 
-    alt="Most Used Languages"
-  />
-</p>
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mcdofrenchfreis&layout=compact&langs_count=8&hide_border=true&theme=radical)
 
 ---
 
