@@ -1,53 +1,20 @@
-## 👋 Hello, I'm **mcdofrenchfreis**
-Also known as **Biofrost** / **Evan** 🙂
+### Hi, I'm **mcdofrenchfreis** (aka **Biofrost / Evan**)
 
----
-
-### 🧠 Most Used Languages
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mcdofrenchfreis&layout=compact&langs_count=8&hide_border=true&theme=radical)
-
----
-
-### 📊 Contribution Activity
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mcdofrenchfreis&theme=react-dark&hide_border=true" 
-    alt="GitHub Contribution Graph"
-  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mcdofrenchfreis&layout=compact&langs_count=8&hide_border=true&theme=radical" height="150" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mcdofrenchfreis&theme=react-dark&hide_border=true" height="150" />
 </p>
 
----
-
-### 💻 Working Environments
 <p align="center">
-  <a href="https://www.microsoft.com/windows">
-    <img src="https://img.shields.io/badge/Windows%2011-0078d4?style=for-the-badge&logo=windows11&logoColor=white" />
-  </a>
-  <a href="https://archlinux.org/">
-    <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  </a>
-  <a href="https://releases.ubuntu.com/jammy/">
-    <img src="https://img.shields.io/badge/Ubuntu%2022.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  </a>
-  <a href="https://fedoraproject.org/">
-    <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Windows%2011-0078d4?style=flat-square&logo=windows11&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu%2022.04-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white" />
 </p>
 
----
-
-### 📬 Contact
 <p align="center">
   <a href="mailto:dcruzyvan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/dcruzyvan@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=mcdofrenchfreis&style=for-the-badge&color=blue" 
-    alt="Profile Views"
-  />
+  <img src="https://komarev.com/ghpvc/?username=mcdofrenchfreis&style=flat-square&color=blue" />
 </p>
