@@ -1,6 +1,6 @@
 ### Hi, I'm **mcdofrenchfreis** (aka **Biofrost / Evan**)
 
-#### 🛠️ Tech Stac
+#### 🛠️ Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
